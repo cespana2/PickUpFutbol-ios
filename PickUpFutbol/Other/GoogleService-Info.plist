@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD6K4d48Hq-xpggLweEg5gB7V-p1lepXXY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>950393325921</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>carlosespana.PickUpFutbol</string>
+	<key>PROJECT_ID</key>
+	<string>pickup-futbol</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pickup-futbol.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:950393325921:ios:5959ac07b16e9d39fe5d20</string>
+	<key>DATABASE_URL</key>
+	<string>https://pickup-futbol-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
